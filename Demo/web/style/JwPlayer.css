@@ -1,0 +1,18 @@
+﻿body
+{
+	padding:100px;	
+}
+*
+{
+	padding:0;
+	margin:0;	
+}
+.myElement
+{
+	width:640px;
+	height:360px;	
+}
+ul,li
+{
+	list-style-type:none;	
+}
